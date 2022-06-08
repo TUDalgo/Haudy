@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkhaudy=self.webpackChunkhaudy||[]).push([[678],{56558:function(e,n,u){u.r(n),u.d(n,{default:function(){return r}});u(67294),u(1597);var t=u(10943),i=u(67940),l=u(23431);function r(){return(0,l.tZ)(t.Z,{title:"Willkommen!"},(0,l.tZ)(i.Z,{title:"Willkommen!"}),(0,l.tZ)("p",null,"Wähle links die Seite zu dem Thema aus, zu dem du Hilfe benötigst."),(0,l.tZ)("p",null,"Bei Fragen stehen wir dir im Moodle-Kurs und in den Sprechstunden zur Verfügung."))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-fd9b1ab9ac1c6d5c4192.js.map

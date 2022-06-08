@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkhaudy=self.webpackChunkhaudy||[]).push([[883],{30429:function(t,e,n){n.r(e),n.d(e,{default:function(){return f}});n(67294),n(1597);var u=n(10943),a=n(67940),i=n(23431);function f(){return(0,i.tZ)(u.Z,{title:"Path not found!"},(0,i.tZ)(a.Z,{title:"404: Not found"}),(0,i.tZ)("p",null,"Dijkstra hat alle Pfade abgesucht, konnte die Seite aber nicht finden."))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-fb32b9c61c5a15ec8a80.js.map
